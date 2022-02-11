@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://js.ipfs.io" title="JS IPFS GO">
+  <a href="https://js.ipfs.io" title="JS IPFS">
     <img src="https://ipfs.io/ipfs/Qme6KJdKcp85TYbLxuLV7oQzMiLremD7HMoXLZEmgo6Rnh/js-ipfs-sticker.png" alt="IPFS in JavaScript logo" width="244" />
   </a>
 </p>
@@ -24,7 +24,7 @@
 
 We've come a long way, but this project is still in Alpha, lots of development is happening, APIs might change, beware of 🐉..
 
-## Getting started
+## Lift of
 
 * Read the [docs](https://github.com/ipfs/js-ipfs/tree/master/docs)
 * Ensure CORS is [correctly configured](https://github.com/ipfs/js-ipfs/blob/master/docs/CORS.md) for use with the HTTP client
